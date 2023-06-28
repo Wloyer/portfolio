@@ -4,14 +4,18 @@ publishDate: 2020-03-04 00:00:00
 img: /assets/VTCSN.png
 img_alt: a rideshare services front page
 description: |
-  We developed an app of rideshare services destined for the senegal.
+  I developed an app of rideshare services destined for the senegal. 
 tags:
-  - Design
-  - Dev
-  - Branding
+  - Html/CSS
+  - Bootstrap
+  - Javascript
+  - PHP
+  - Symfony
+  - MYSQL
 ---
+<a src="https://github.com/Wloyer/StageDWWM">Github Repository</a>
 
-As part of an agile and dynamic team, I had the distinct pleasure of developing the VTCSN website, an innovative platform aimed at supporting young entrepreneurs venturing into the ride-hailing service industry. Our mission was to cultivate a professional yet user-friendly digital environment, and we started with designing a unique, identifiable logo that symbolizes the heart of the client's vision.
+As part of an agile and dynamic team, I had the distinct pleasure of developing the VTCSN website, an innovative platform aimed at supporting young entrepreneurs venturing into the ride-hailing service industry. Our mission was to cultivate a professional yet user-friendly digital environment, and we started with designing a unique, identifiable logo that symbolizes the heart of the client's vision. 
 
 Although we had a template as a starting point, we collectively made a decision to rebuild the website with a focus on responsive design and maintainability. Our tech stack included HTML, CSS ,Bootstrap, JavaScript, PHP, Symfony and we made extensive use of MySQL for database management.
 
