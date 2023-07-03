@@ -1,7 +1,7 @@
 ---
 title: My portfolio
 publishDate: 2020-03-02 00:00:00
-img: /assets/portfolio.png
+img: /portfolio/assets/portfolio.png
 img_alt: $this
 description: |
   The technologie and work behind my portfolio

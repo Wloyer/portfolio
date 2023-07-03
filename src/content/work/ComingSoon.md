@@ -1,7 +1,7 @@
 ---
 title: More project Coming soon
 publishDate: 2020-03-02 00:00:00
-img: /assets/commingSoon.png
+img: /portfolio/assets/commingSoon.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Comming soon
