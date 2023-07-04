@@ -1,7 +1,7 @@
 ---
 title: Saccahrose
 publishDate: 2020-03-02 00:00:00
-img: /portfolio/assets/bg-saccahrose1.png
+img: /portfolio/assets/Saccahrose.png
 img_alt: Cupacake and berries
 description: |
   An E-Commerce Platform for French Pastries 
