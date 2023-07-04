@@ -4,7 +4,7 @@ publishDate: 2020-03-02 00:00:00
 img: /portfolio/assets/bg-saccahrose1.png
 img_alt: Cupacake and berries
 description: |
-  An E-Commerce Platform for French Pastries https://github.com/Wloyer/symfonytest3
+  An E-Commerce Platform for French Pastries 
 tags:
   - Html/Css  
   - Bootstrap
