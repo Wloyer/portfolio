@@ -4,7 +4,7 @@ publishDate: 2020-03-02 00:00:00
 img: /portfolio/assets/bg-saccahrose1.png
 img_alt: Cupacake and berries
 description: |
-  An E-Commerce Platform for French Pastries
+  An E-Commerce Platform for French Pastries https://github.com/Wloyer/symfonytest3
 tags:
   - Html/Css  
   - Bootstrap
@@ -13,7 +13,7 @@ tags:
   - Symfony
   - MySql
 ---
-<a src="https://github.com/Wloyer/symfonytest3">Github Repository link</a>
+https://github.com/Wloyer/symfonytest3
 
 I'm thrilled to present "Saccahrose," an e-commerce platform dedicated to selling authentic French pastries. This project holds a special place in my heart, as it is the first full-fledged website I've developed. Created during my Brevet de technicien supérieur (BTS), it served as a comprehensive platform to apply and showcase my skills in HTML, CSS, JavaScript, and Symfony.
 

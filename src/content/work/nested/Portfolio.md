@@ -4,14 +4,14 @@ publishDate: 2020-03-02 00:00:00
 img: /portfolio/assets/portfolio.png
 img_alt: $this
 description: |
-  The technologie and work behind my portfolio
+  The technologie and work behind my portfolio https://github.com/Wloyer/portfolio
 tags:
   - Html/Css
   - Javascript
   - Nova
 ---
 
-<a src="https://github.com/Wloyer/portfolio">Github Repository link</a>
+https://github.com/Wloyer/portfolio
 
 As you delve into this digital space, you're embarking on a journey through my professional and creative life. It is here where I have compiled my diverse array of projects, each representing a unique challenge and a story of perseverance, creativity, and dedication.
 

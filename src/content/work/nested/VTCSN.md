@@ -4,7 +4,7 @@ publishDate: 2020-03-04 00:00:00
 img: /portfolio/assets/VTCSN.png
 img_alt: a rideshare services front page
 description: |
-  I developed an app of rideshare services destined for the senegal. 
+  I developed an app of rideshare services destined for the senegal. https://github.com/Wloyer/StageDWWM
 tags:
   - Html/CSS
   - Bootstrap
