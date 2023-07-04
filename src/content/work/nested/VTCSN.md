@@ -13,7 +13,7 @@ tags:
   - Symfony
   - MYSQL
 ---
-<a src="https://github.com/Wloyer/StageDWWM">Github Repository</a>
+https://github.com/Wloyer/StageDWWM
 
 As part of an agile and dynamic team, I had the distinct pleasure of developing the VTCSN website, an innovative platform aimed at supporting young entrepreneurs venturing into the ride-hailing service industry. Our mission was to cultivate a professional yet user-friendly digital environment, and we started with designing a unique, identifiable logo that symbolizes the heart of the client's vision. 
 
